@@ -160,4 +160,16 @@ font-weight: bold;
     border-radius: 10px;
     padding: 8px 24px;
 }
+/* Footer*/
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: #1f2937;
+}
+.footer {
+    color: #e5e7eb;
+    font-size: 24px;
+}
 
