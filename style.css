@@ -3,6 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 /*header*/
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -27,6 +28,7 @@ a {
     color: #e5e7eb;
 }
 /*section-one*/
+
 .section-one {
     display: flex;
     background-color: #1f2937;
@@ -58,6 +60,7 @@ a {
     padding: 8px 24px;
 }
 /*Section two*/
+
 .section-two {
     padding: 100px;
 }
@@ -90,6 +93,30 @@ a {
     color: #1f2937;
     text-align: center;
     margin: 0 5px;
+}
+/*Section three*/
+
+.section-three {
+    padding: 150px 100px;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    flex-direction: column;
+    background-color: #e5e7eb;
+}
+.quote {
+font-size: 36px;
+font-style: italic;
+color: #1f2937;
+margin: 0px 300px;
+text-align: justify;
+}
+.author {
+align-self: flex-end;
+margin: 0px 300px;
+font-size: 24px;
+color: #1f2937;
+font-weight: bold;
 }
 
 
